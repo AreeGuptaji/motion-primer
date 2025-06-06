@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
-body {
+/* body {
   font-family: "Main";
   background-color: rgb(24, 24, 24);
   color: white;
@@ -8,4 +8,4 @@ body {
 @font-face {
   font-family: "Main";
   src: url("/EduSA.ttf");
-}
+} */
